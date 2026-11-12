@@ -1,12 +1,14 @@
-# HELLO
+# HELLO WORLD
 
 Welcome to my GitHub profile!
 
-If you want to help me, check the [FUNDING](.github/FUNDING.yml).
+If you want to help me, then [fund me](.github/FUNDING.yml).
 
-## Assets
+---
 
-List of all public assets for softwar[FUNDING.yml](../joaotiagobento.info/.github/FUNDING.yml)e projects.
+# Assets
+
+Collection of public assets for software projects.
 
 ### Templates
 
