@@ -1,67 +1,51 @@
-# OLÁ!
+# HELLO
 
-Bem-vindo ao meu website!
+Welcome to my GitHub profile!
 
-Se quiseres ajudar, verifica o ficheiro [TODO](TODO.md).
+If you want to help me, check the [FUNDING](.github/FUNDING.yml).
 
----
+## Assets
 
-## Ligações
-- Autor: [jtnb94](https://github.com/jtnb94)
-- Código: [GitHub](https://github.com/jtnb94/jtnb94)
-- Artefactos: [GitHub](https://github.com/jtnb94/jtnb94/artefacts)
+List of all public assets for softwar[FUNDING.yml](../joaotiagobento.info/.github/FUNDING.yml)e projects.
 
----
+### Templates
 
-## Documentação Técnica
-- [Guia de Instalação](INSTALLATION_GUIDE.md)
+- ...
 
----
+### Licenses
 
-## Templates
-As secções seguintes disponibilizam vários modelos/templates.
-
-### Licenças
-
-#### 1. Licenças de Domínio Público
+#### 1. Public Domain Licenses
 - **MIT**: 
-[licença](documents/licenses/MIT.md), 
+[license](assets/licenses/MIT.md), 
 [original](https://opensource.org/license/mit)
 
-#### 2. Licenças de Código Aberto
+#### 2. Openware Licenses
 
 - **BSD**:
-[licença](documents/licenses/BSD.md), 
+[license](assets/licenses/BSD.md), 
 [original](https://www.google.com)
 
 - **GPL**: 
-[referência](documents/licenses/GPL.md), 
-[completa](documents/licenses/GPL_full.md), 
+[reference](assets/licenses/GPL.md), 
+[complete](assets/licenses/GPL_full.md), 
 [original](https://www.google.com)
 
 - **LGPL**: 
-[referência](documents/licenses/LGPL.md), 
-[completa](documents/licenses/LGPL_full.md), 
+[reference](assets/licenses/LGPL.md), 
+[complete](assets/licenses/LGPL_full.md), 
 [original](https://www.google.com)
 
 - **AGPL**: 
-[referência](documents/licenses/AGPL.md), 
-[completa](documents/licenses/AGPL_full.md), 
+[reference](assets/licenses/AGPL.md), 
+[complete](assets/licenses/AGPL_full.md), 
 [original](https://www.google.com)
 
-#### 3. Licenças de Código Aberto com Limitações
+#### 3. Openware Licenses with Limitations
 - **BSL**: 
-[licença](documents/licenses/BSL.md), 
+[license](assets/licenses/BSL.md), 
 [original](https://www.google.com)
 
-#### 4. Licenças Proprietárias
+#### 4. Proprietary Licenses
 - **EULA**: 
-[inglês](documents/licenses/EULA_enUS.md), 
-[português](documents/licenses/EULA_ptPT.md)
-
-### Contratos
-
-#### 1. [**Bento-Box**](https://github.com/jtnb94/bento-box)
-- **EULA**: 
-[inglês](documents/contracts/software_contract_suite_enUS.md),
-[português](documents/contracts/software_contract_suite_ptPT.md)
+[english](assets/licenses/EULA_enUS.md), 
+[portuguese](assets/licenses/EULA_ptPT.md)
