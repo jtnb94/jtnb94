@@ -1,0 +1,10 @@
+# ########## #
+# GIT IGNORE
+# ########## #
+
+# Ficheiros de compilação
+/node_modules/
+/dist/
+
+# Ficheiros de log
+/logs/
